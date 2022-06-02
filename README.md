@@ -4,7 +4,8 @@
 
 <div align="justify">
   <h1>AHR BRASIL SOLUÇÕES EM GESTÃO DE PESSOAS</h1>
-  <p>NOSSO MAIOR OBJETIVO É TRAZER RAPIDEZ E ASSERTIVIDADE AOS SEUS PROCESSOS, SEJA TECNOLOGICAMENTE OU PROCESSUALMENTE.</p>
+  <p>Empresa voltada à otimização de recursos e resultados na Administração de Pessoal das empresas, de modo geral, Atuando nos segmentos de consultoria, capacitação e desenvolvimento de softwares para otimização da área.</p>
+  <p>Auditoria de folha de pagamento, Otimizações para GFIP, Consultoria eSocial, Processos de Conciliação Contábil de Folha de Pagamento, Mapeamento e desenho de processos e Treinamentos In Company, voltados à GFIP, eSocial e Administração de Pessoal</p>
   <p>Acreditamos que nossas soluções possam contribuir com sua empresa, de forma efetiva,
 em virtude do conhecimento adquirido por nossos profissionais, que atuam na área de Administração de Pessoal,
 sempre voltados à área processual e sistêmica, buscando soluções de otimização e agilidade nos processos da Administração de Pessoal das companhias por onde passaram.</p>
