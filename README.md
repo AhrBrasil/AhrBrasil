@@ -23,5 +23,5 @@ sempre voltados à área processual e sistêmica, buscando soluções de otimiza
   <a href = "mailto:fabianorios@ahrbrasil.com.br" target="_blank">
    <img align="center" alt="Ees-Git" height="40" width="40" src="https://i.imgur.com/7foc0Wt.png" /></a>
   <h2>Site</h2>
-  <p>http://www.ahrbrasil.com.br/index.html</p>
+  <p>http://www.ahrbrasil.com.br/</p>
 </div>
