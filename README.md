@@ -19,7 +19,7 @@ sempre voltados à área processual e sistêmica, buscando soluções de otimiza
     <li>Serviços</li>
   </ul>
   <h2>Contato</h2>
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/company/15193893/admin/" target="_blank">
   <img align="center" alt="Ees-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
   
   <a href = "mailto:fabianorios@ahrbrasil.com.br" target="_blank">
